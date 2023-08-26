@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Robel",
+      "last_name": "Smith",
+      "email": "robel@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Lucky",
+      "last_name": "Smith",
+      "email": "Luckyl@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Anna",
+      "last_name": "Smith",
+      "email": "annal@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "thong",
+      "last_name": "xiong",
+      "email": "xiong@gmail.com"
+    }
+  ]
+}
